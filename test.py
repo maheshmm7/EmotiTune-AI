@@ -1,4 +1,3 @@
-
 # USAGE: python emotion_based_media_player.py
 
 from keras.models import load_model
