@@ -26,8 +26,8 @@ Ensure you have the following installed:
 ### **📌 Setup**  
 #### **1️⃣ Clone the repository**  
 ```bash  
-git clone https://github.com/your-username/emotion-based-media-player.git  
-cd emotion-based-media-player  
+git clone https://github.com/maheshmm7/EmotiTune-AI.git  
+cd EmotiTune-AI
 ```  
 #### **2️⃣ Set up a Virtual Environment (If Python is not 3.7 - 3.9)**  
 **For Windows:**  
@@ -115,4 +115,4 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📬 Contact  
-For any questions or feedback, reach out via [GitHub Issues](https://github.com/maheshmm7/EmotiTune-AI/tree/spotify/issues).
+For any questions or feedback, reach out via [GitHub Issues](https://github.com/maheshmm7/EmotiTune-AI/issues).
