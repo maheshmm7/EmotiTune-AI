@@ -1,5 +1,0 @@
-Happy=E-Happy Hits, E-Pop Rising, E-Feel Good Friday, E-Good Vibes, E-Party Hits, T-Telugu Party, T-Telugu Happy Beats, T-Tollywood Dance, T-Telugu Feel Good, T-Super Hit Songs
-Neutral=E-Chill Vibes, E-Lo-Fi Beats, E-Relax & Unwind, E-Acoustic Chill, E-Piano Peace, T-Telugu Chill, T-Telugu Lo-Fi, T-Melody Masti, T-Relaxing Telugu, T-Unplugged Telugu
-Sad=E-Sad Songs, E-Broken Heart, E-Deep Feels, E-Emo Rap, E-Tearjerkers, T-Telugu Sad Hits, T-Heartbreak Telugu, T-Feel the Pain, T-Telugu Soulful, T-Sad Love Songs
-Angry=E-Rock Anthems, E-Metal Essentials, E-Hard Rock, E-Rap Bangers, E-Hype Music, T-Telugu Rock, T-Powerful Telugu, T-Telugu Rage, T-Energetic Telugu, T-Telugu Power Hits
-Surprise=E-Top 50 Global, E-Trending Now, E-Viral Hits, E-Throwback Party, E-Chart Toppers, T-Telugu Trending, T-Telugu Chartbusters, T-New Telugu, T-Surprise Mix, T-Mass Telugu
