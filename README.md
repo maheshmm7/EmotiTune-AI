@@ -115,4 +115,4 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📬 Contact  
-For any questions or feedback, reach out via [GitHub Issues](https://github.com/your-username/emotion-based-media-player/issues).
+For any questions or feedback, reach out via [GitHub Issues](https://github.com/maheshmm7/EmotiTune-AI/tree/spotify/issues).
